@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	banksv1 "github.com/lucasmmo/brasil-api-sdk-go/service/banks_v1"
+	banksv1 "github.com/lucasmmo/brasil-api-sdk-go/services/banks_v1"
 )
 
 func TestBank(t *testing.T) {

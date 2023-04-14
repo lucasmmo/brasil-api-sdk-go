@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	cepv1 "github.com/lucasmmo/brasil-api-sdk-go/service/cep_v1"
+	cepv1 "github.com/lucasmmo/brasil-api-sdk-go/services/cep_v1"
 )
 
 var test_cases = []struct {

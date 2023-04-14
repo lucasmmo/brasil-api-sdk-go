@@ -1,7 +1,5 @@
 package banksv1
 
-import "fmt"
-
 
 type BanksOutput struct {
     Ispb string
