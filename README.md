@@ -1,6 +1,6 @@
 Services:
 
-[] CEP
+[x] CEP
 [] DDD
 [] Bank
 [] CNPJ
@@ -11,6 +11,3 @@ Services:
 [] Registro de domínio br
 [] Taxas
 
-`
-
-` 
