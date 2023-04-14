@@ -57,5 +57,5 @@ This project is licensed under the MIT License.
 
 ## Main maintainer:
 
-- /lucasmmo
+- Lucas Mocerino Monteiro ([lucasmmo](https://github.com/lucasmmo))
 
