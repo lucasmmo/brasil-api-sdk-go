@@ -5,7 +5,7 @@
    $ go get github.com/lucasmmo/brasil-api-sdk-go/service/{service_name}
 `
 
-## Example:
+### Example:
 `
     $ go get github.com/lucasmmo/brasil-api-sdk-go/service/cep_v1
 `
