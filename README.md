@@ -1,6 +1,7 @@
 # BRASIL API GOLANG SDK
 
-- To install the brasil-api-sdk-go you need to run the command down below:
+To install the brasil-api-sdk-go you need to run the command down below:
+
 `
    $ go get github.com/lucasmmo/brasil-api-sdk-go/service/{service_name}
 `
