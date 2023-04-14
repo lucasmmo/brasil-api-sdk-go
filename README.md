@@ -40,9 +40,9 @@ If you wanna to test in your machine, run the command:
 
 ## Services:
 
-- CEP (done)
+- CEP (✅)
 - DDD
-- Bank (done)
+- Bank (✅)
 - CNPJ
 - IBGE
 - Feriados Nacionais
