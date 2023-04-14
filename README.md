@@ -16,17 +16,15 @@ To install the brasil-api-sdk-go you need to run the command down below:
 
 ## Usage:
 
-`
+```go
     func Foo() {
         // some generic function
         client := cepv1.NewClient()
-
         output, err := client.FindByCepWithMultiplesProviders("xxxxxxxx")
         // error handling
-
         // the output should will return a pointer of cepv1.CepOutput
     }
-`
+```
 
 Or clone this project, navigate to example dir and have fun.
 
