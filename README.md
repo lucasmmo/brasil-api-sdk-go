@@ -51,4 +51,11 @@ If you wanna to test in your machine, run the command:
 - Registro de domínio br
 - Taxas
 
+## License:
+
+This project is licensed under the MIT License.
+
+## Main maintainer:
+
+- /lucasmmo
 
